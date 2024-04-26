@@ -1,2 +1,3 @@
 wird hier crlf verwendet?
 oder nicht?
+Nun habe ich die Datei auf LF geaendert
