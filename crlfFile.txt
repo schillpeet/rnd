@@ -1,2 +1,0 @@
-This is currently a crlf file.
-I forgot to add a new line to activate crlf.
