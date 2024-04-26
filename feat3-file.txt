@@ -1,0 +1,3 @@
+text for feat3 file
+
+--- amend it while a pull request is open ---
